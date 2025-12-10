@@ -3,15 +3,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indianhacker12&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indianhacker12&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages" />
-</div>
-
----
-
 ### 💼 Professional Skills
 
 <div align="left">
